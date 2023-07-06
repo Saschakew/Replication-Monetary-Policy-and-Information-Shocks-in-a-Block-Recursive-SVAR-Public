@@ -1,0 +1,6 @@
+\begin{tabular}{c|  c c | c c  }
+	& $\varepsilon^{y}_t$ & $\varepsilon^{\pi}_t$ & $\varepsilon^{info}_t$ & $\varepsilon^{mp}_t$ \\\hline
+	Skewness & $0.018 $ & $0.236 $ & $-0.892 $ & $-0.076 $ \\
+	Kurtosis & $3.479 $ & $4.92 $ & $6.566 $ & $3.366 $ \\
+	Jarque-Bera Test (p-value) & $0.158 $ & $0.0 $ & $0.0 $ & $0.284 $ \\
+\end{tabular}

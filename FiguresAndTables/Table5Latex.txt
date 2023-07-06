@@ -1,0 +1,6 @@
+\begin{tabular}{ c| c c c c }
+	& $\beta_1$ & $\beta_2$ & $\beta_3$ & $\beta_4$ \\\hline
+	Estimator $\hat{\beta_i}$ & $0.0$ & $0.05$ & $0.12$ & $-0.04$ \\
+	Wald test statistic $H_0: \beta_{i}=0$ & $0.0$ & $2.32$ & $12.33$ & $1.42$ \\
+	Wald test p-value & $0.95$ & $0.13$ & $0.0$ & $0.23$ \\
+\end{tabular}
